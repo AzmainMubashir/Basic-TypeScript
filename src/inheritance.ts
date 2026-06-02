@@ -1,3 +1,5 @@
+// Inheritance: 1st pillar of OOP
+
 class Person {
   name: string; // common
   age: number; // common
